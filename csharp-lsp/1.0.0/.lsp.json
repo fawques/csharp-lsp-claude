@@ -1,0 +1,9 @@
+{
+  "csharp-ls": {
+    "command": "dotnet",
+    "args": ["run", "${CLAUDE_PLUGIN_ROOT}/csharp-ls-wrapper.cs"],
+    "extensionToLanguage": {
+      ".cs": "csharp"
+    }
+  }
+}

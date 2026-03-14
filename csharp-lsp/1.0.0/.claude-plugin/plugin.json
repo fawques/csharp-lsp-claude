@@ -1,0 +1,7 @@
+{
+  "name": "csharp-lsp",
+  "description": "C# Language Server Protocol support with cold-start warmup wrapper",
+  "version": "1.0.0",
+  "author": {"name": "Victor"},
+  "license": "Apache-2.0"
+}
